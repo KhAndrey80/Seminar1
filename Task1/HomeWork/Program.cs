@@ -42,7 +42,7 @@ else System.Console.WriteLine("Наибольшее число-> " + tretye);*/
 
 //Задача 6: Напишите программу, которая на вход принимает число и выдает, является ли число четным (делится ли оно на два без остатка). 
 
-System.Console.WriteLine("Введите число");
+/*System.Console.WriteLine("Введите число");
 int number = Convert.ToInt32(System.Console.ReadLine());
 
 
@@ -53,10 +53,20 @@ if ( number %2  == 0)
 else
 {
   System.Console.WriteLine("Число нечётное");
-}
-
-
-
-
+}*/
 
 //Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+System.Console.WriteLine("Введите число");
+int number = Convert.ToInt32(System.Console.ReadLine());
+
+int count = 1;
+
+while (count < number )
+{
+    if (count %2 == 0)
+    {
+       System.Console.WriteLine(count);
+    }
+
+count++;
+}

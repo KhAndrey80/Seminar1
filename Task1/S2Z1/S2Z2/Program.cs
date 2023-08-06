@@ -1,4 +1,4 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿/*int Max(int arg1, int arg2, int arg3)
 {
     int result = arg1;
     if (arg2 > result) result = arg2;
@@ -13,4 +13,23 @@ int result = Max(
     Max(array[6], array[7], array[8])
 );
 
-Console.WriteLine(result);
+Console.WriteLine(result);*/
+
+int [] array = {13, 452, 673, 47, 235, 676, 127, 348, 673};
+
+int n = array.Length;
+
+int find = 673;
+
+int index = 0;
+
+while (index < n)
+{
+    if(array[index] == find)
+    {
+        System.Console.WriteLine(index);
+        break;
+    }
+
+ index++;   
+}

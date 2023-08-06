@@ -1,0 +1,15 @@
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.csproj.AssemblyReference.cache
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.AssemblyInfoInputs.cache
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.AssemblyInfo.cs
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.csproj.CoreCompileInputs.cache
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\bin\Debug\net6.0\S2Z2.exe
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\bin\Debug\net6.0\S2Z2.deps.json
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\bin\Debug\net6.0\S2Z2.runtimeconfig.json
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\bin\Debug\net6.0\S2Z2.dll
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\bin\Debug\net6.0\S2Z2.pdb
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.dll
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\refint\S2Z2.dll
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.pdb
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\S2Z2.genruntimeconfig.cache
+D:\Andrey Education\Seminar1\Task1\S2Z1\S2Z2\obj\Debug\net6.0\ref\S2Z2.dll

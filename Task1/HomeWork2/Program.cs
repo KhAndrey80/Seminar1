@@ -22,13 +22,16 @@ if (number < 100)
 }
 else if (number > 100 && number <1000)
 {
-    System.Console.WriteLine(number 10%);
+    System.Console.WriteLine(number %10);
+}
+else if (number > 1000 && number <10000)
+{
+    System.Console.WriteLine(((number %100)-(number %100) %10) / 10);
 }
 else 
 {
-    System.Console.WriteLine("Хрен знает");
+    System.Console.WriteLine((number %1000 -(number %1000) %100) / 100);
 }
-
 
 
 /*3.Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
